@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "ditthtzy",
+      "password": "sactum",
+      "role": "developer"
+    },
+    {
+      "username": "frmnz",
+      "password": "frmnz1",
+      "role": "developer"
+    },
+    {
+      "username": "zoya",
+      "password": "zoya112",
+      "role": "asisten"
+    }
+  ]
+}
