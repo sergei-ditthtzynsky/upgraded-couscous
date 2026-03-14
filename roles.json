@@ -24,6 +24,11 @@
       "username": "luwy",
       "password": "luwy",
       "role": "reseller"
+    },
+    {
+      "username": "dli",
+      "password": "dli991",
+      "role": "partner"
     }
   ]
 }
