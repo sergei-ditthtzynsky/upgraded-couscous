@@ -1,6 +1,13 @@
 {
   "logs": [
     {
+      "who": "ditthtzy",
+      "role": "developer",
+      "action": "tambah token",
+      "detail": "852***:AAF······p8",
+      "time": "14 Mar 2026, 14.46"
+    },
+    {
       "who": "frmnz",
       "role": "developer",
       "action": "tambah user",
