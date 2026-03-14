@@ -19,6 +19,11 @@
       "username": "nasz",
       "password": "nasz99",
       "role": "owner"
+    },
+    {
+      "username": "luwy",
+      "password": "luwy",
+      "role": "reseller"
     }
   ]
 }
