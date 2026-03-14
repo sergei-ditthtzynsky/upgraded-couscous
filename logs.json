@@ -1,0 +1,18 @@
+{
+  "logs": [
+    {
+      "who": "frmnz",
+      "role": "developer",
+      "action": "tambah user",
+      "detail": "zoya (asisten)",
+      "time": "14 Mar 2026, 13.53"
+    },
+    {
+      "who": "ditthtzy",
+      "role": "developer",
+      "action": "tambah user",
+      "detail": "frmnz (developer)",
+      "time": "14 Mar 2026, 13.43"
+    }
+  ]
+}
