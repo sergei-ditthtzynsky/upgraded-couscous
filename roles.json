@@ -39,6 +39,11 @@
       "username": "dika",
       "password": "dika999",
       "role": "ceo"
+    },
+    {
+      "username": "six",
+      "password": "sixz123",
+      "role": "owner"
     }
   ]
 }
