@@ -49,6 +49,11 @@
       "username": "dewa",
       "password": "dewa111",
       "role": "owner"
+    },
+    {
+      "username": "venn",
+      "password": "venn123",
+      "role": "reseller"
     }
   ]
 }
