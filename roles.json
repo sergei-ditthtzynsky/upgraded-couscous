@@ -44,6 +44,11 @@
       "username": "six",
       "password": "sixz123",
       "role": "owner"
+    },
+    {
+      "username": "dewa",
+      "password": "dewa111",
+      "role": "owner"
     }
   ]
 }
