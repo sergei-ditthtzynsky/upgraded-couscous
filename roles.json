@@ -54,6 +54,11 @@
       "username": "venn",
       "password": "venn123",
       "role": "reseller"
+    },
+    {
+      "username": "fvck",
+      "password": "fvck009",
+      "role": "partner"
     }
   ]
 }
