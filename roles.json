@@ -64,6 +64,11 @@
       "username": "gyzen",
       "password": "gyzen009",
       "role": "partner"
+    },
+    {
+      "username": "senn",
+      "password": "senn124",
+      "role": "reseller"
     }
   ]
 }
