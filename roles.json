@@ -69,6 +69,11 @@
       "username": "senn",
       "password": "senn124",
       "role": "reseller"
+    },
+    {
+      "username": "olin",
+      "password": "olin134",
+      "role": "partner"
     }
   ]
 }
