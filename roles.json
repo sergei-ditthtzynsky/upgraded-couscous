@@ -79,6 +79,11 @@
       "username": "alizz",
       "password": "alizz12",
       "role": "reseller"
+    },
+    {
+      "username": "yanz",
+      "password": "yanz12",
+      "role": "reseller"
     }
   ]
 }
