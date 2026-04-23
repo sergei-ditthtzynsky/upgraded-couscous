@@ -84,6 +84,11 @@
       "username": "yanz",
       "password": "yanz12",
       "role": "reseller"
+    },
+    {
+      "username": "xyuu",
+      "password": "xyuu12",
+      "role": "reseller"
     }
   ]
 }
